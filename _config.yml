@@ -1,4 +1,8 @@
 # _config.yml
 
 title: "Jekyll Actions Demo"
-remote_theme: sujaykundu777/devlopr-jekyll 
+remote_theme: daattali/beautiful-jekyll@5.0.0
+
+# This will require each of these plugins automatically.
+plugins:
+  - jekyll-remote-theme
