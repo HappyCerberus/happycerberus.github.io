@@ -4,6 +4,7 @@ title: "RNDr. Šimon Tóth"
 theme: minimal-mistakes-jekyll
 
 # Folder for series
-collections_dir: series
- sort_by: id
- output: true
+collections:
+	cpp20_guides:
+		sort_by: id
+		output: true

@@ -10,7 +10,7 @@ Welcome to My Home Page
 - Original date - {{ date }}
 - With timeago filter - {{ date | timeago }}
 
-{% for article in site.cpp20 %}
+{% for article in site.cpp20_guides %}
   <h2>{{ article.title }}</h2>
   <p>{{ article.content | markdownify }}</p>
 {% endfor %}
