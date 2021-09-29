@@ -5,3 +5,30 @@ theme: minimal-mistakes-jekyll
 
 # Define collections
 collections_dir: series
+
+collections:
+  cpp20_guides:
+    sort_by: id
+  guides:
+    output: true
+    permalink: /:collection/:path/
+
+ 
+author:
+  name: "RNDr. Šimon Tóth"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "ex-Software Egineer, ex-Researcher."
+  location: "Brno, Czech Republic"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
