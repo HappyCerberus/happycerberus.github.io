@@ -5,3 +5,5 @@ theme: minimal-mistakes-jekyll
 
 # Folder for series
 collections_dir: series
+ sort_by: id
+ output: true
