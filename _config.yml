@@ -4,6 +4,4 @@ title: "RNDr. Šimon Tóth"
 theme: minimal-mistakes-jekyll
 
 # Define collections
-collections:
-  cpp20_guides:
-    sort_by: id
+collections_dir: series
