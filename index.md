@@ -1,6 +1,14 @@
 ---
-layout: home
+layout: default
 author_profile: true
 ---
 
-Welcome to My Home Page
+## My latest YouTube videos
+
+<!--START_SECTION:youtube-->
+<!--END_SECTION:youtube-->
+
+## My latest Medium posts
+
+<!--START_SECTION:medium-->
+<!--END_SECTION:medium-->
