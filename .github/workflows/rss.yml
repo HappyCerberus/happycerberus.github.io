@@ -1,0 +1,21 @@
+name: Fetch RSS feeds for Youtube & Medium
+
+on:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://medium.com/feed/@happy.cerberus
+          readme-section: medium
+          path: index.md
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpSqMoRM5sewrjtI1RkDKxg
+          readme-section: youtube
+          path: index.md
