@@ -3,8 +3,6 @@ title: C++20 Modules - Complete Guide
 id: 1
 ---
 
-### C++20 Modules - Complete Guide
-
 One of the four major features of C++20, modules bring this common feature from other languages into C++.
 
 With this, we finally get idempotent compilation and massive speedups resulting from the removal of recursive include expansion.

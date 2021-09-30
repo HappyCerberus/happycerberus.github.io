@@ -1,9 +1,8 @@
 ---
 layout: single
 title: C++20 Guides
+author_profile: true
 ---
-
-## C++20 Guides
 
 A series of C++20 guides covering the main features.
 

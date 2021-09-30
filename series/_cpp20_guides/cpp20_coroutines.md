@@ -3,8 +3,6 @@ title: C++20 Coroutines - Complete* Guide
 id: 3
 ---
 
-### C++20 Coroutines - Complete Guide
-
 C++20 brought us initial support for building coroutines.
 
 This support is mainly aimed at library implementors. However, the main building blocks are all in place.
