@@ -2,4 +2,16 @@
 title: C++20 Concepts - Complete Guide
 id: 2
 ---
-Article about C++20 concepts.
+
+### C++20 Concepts - Complete Guide
+
+Concepts bring language-level support for limiting which types can participate in template specialisation without relying on language side effects through SFINAE.
+
+When using concepts, templates and auto can be easily constrained, which allows for better compiler diagnostic messages and complex specialisation selection.
+
+- [Article](https://itnext.io/c-20-concepts-complete-guide-42c9e009c6bf) <i class="fal fa-check-square"></i>
+- [Video](https://www.youtube.com/watch?v=1So7onMFxJM) <i class="fal fa-check-square"></i>
+- [PDF Download](./assets/docs/cpp-20-concepts.pdf) <i class="fal fa-check-square"></i>
+
+
+

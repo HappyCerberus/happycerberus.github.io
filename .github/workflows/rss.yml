@@ -4,8 +4,9 @@ on:
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
+  # Allow manual trigger.
+  workflow_dispatch:
     
-on: workflow_dispatch
 
 jobs:
   update:

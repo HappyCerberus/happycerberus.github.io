@@ -3,14 +3,9 @@ layout: single
 title: C++20 Guides
 ---
 
-{% assign date = '2020-04-13T10:20:00Z' %}
+## C++20 Guides
 
-C++20 Guides
-
-
-
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+A series of C++20 guides covering the main features.
 
 {% for article in site.cpp20_guides %}
   <h2>{{ article.title }}</h2>
