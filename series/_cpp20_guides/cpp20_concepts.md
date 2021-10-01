@@ -7,9 +7,9 @@ Concepts bring language-level support for limiting which types can participate i
 
 When using concepts, templates and auto can be easily constrained, which allows for better compiler diagnostic messages and complex specialisation selection.
 
-- [Article](https://itnext.io/c-20-concepts-complete-guide-42c9e009c6bf) <i class="fal fa-check-square"></i>
-- [Video](https://www.youtube.com/watch?v=1So7onMFxJM) <i class="fal fa-check-square"></i>
-- [PDF Download](./assets/docs/cpp-20-concepts.pdf) <i class="fal fa-check-square"></i>
+- [Article](https://itnext.io/c-20-concepts-complete-guide-42c9e009c6bf) <i class="fas fa-check"></i>
+- [Video](https://www.youtube.com/watch?v=1So7onMFxJM) <i class="fas fa-check"></i>
+- [PDF Download](./assets/docs/cpp-20-concepts.pdf) <i class="fas fa-check"></i>
 
 
 

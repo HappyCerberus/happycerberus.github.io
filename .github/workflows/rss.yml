@@ -16,9 +16,12 @@ jobs:
         with:
           feed-url: https://medium.com/feed/@happy.cerberus
           readme-section: medium
+          branch: main
           path: index.md
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpSqMoRM5sewrjtI1RkDKxg
           readme-section: youtube
+          branch: main
           path: index.md
+          
