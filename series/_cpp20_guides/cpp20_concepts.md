@@ -9,7 +9,7 @@ When using concepts, templates and auto can be easily constrained, which allows 
 
 - [Article](https://itnext.io/c-20-concepts-complete-guide-42c9e009c6bf) <i class="fas fa-check"></i>
 - [Video](https://www.youtube.com/watch?v=1So7onMFxJM) <i class="fas fa-check"></i>
-- [PDF Download](./assets/docs/cpp-20-concepts.pdf) <i class="fas fa-check"></i>
+- [PDF Download](https://cutt.ly/jE5nRaZ) <i class="fas fa-check"></i>
 
 
 
