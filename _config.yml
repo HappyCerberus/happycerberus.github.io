@@ -38,3 +38,5 @@ author:
       url: "https://twitter.com/SimonToth83"
     - label: "Business Contact"
       url: "mailto:business@simontoth.eu"
+
+include: [CNAME]
