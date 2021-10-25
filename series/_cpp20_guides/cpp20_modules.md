@@ -9,7 +9,7 @@ With this, we finally get idempotent compilation and massive speedups resulting 
 
 - [Article](https://itnext.io/c-20-modules-complete-guide-ae741ddbae3d) <i class="fas fa-check"></i>
 - [Video](https://www.youtube.com/watch?v=WRCwciJ5MTE) <i class="fas fa-check"></i>
-- [PDF Download](https://cutt.ly/rE5nPje) <i class="fas fa-check"></i>
+- [PDF Download](https://d.simontoth.eu/IrF) <i class="fas fa-check"></i>
 
 
 
