@@ -39,4 +39,4 @@ author:
     - label: "Business Contact"
       url: "mailto:business@simontoth.eu"
 
-include: [CNAME]
+include: [CNAME, downloads]
