@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [C++20 — Practical Coroutines](https:&#x2F;&#x2F;itnext.io&#x2F;c-20-practical-coroutines-79202872ebba?source&#x3D;rss-1e1de1006a93------2)
 * [C++20 Ranges — Complete Guide](https:&#x2F;&#x2F;itnext.io&#x2F;c-20-ranges-complete-guide-4d26e3511db0?source&#x3D;rss-1e1de1006a93------2)
 * [The performance of languages doesn’t matter.](https:&#x2F;&#x2F;itnext.io&#x2F;the-performance-of-languages-doesnt-matter-4037800288bd?source&#x3D;rss-1e1de1006a93------2)
 * [You are doing code reviews wrong](https:&#x2F;&#x2F;itnext.io&#x2F;you-are-doing-code-reviews-wrong-e0b16ce8812b?source&#x3D;rss-1e1de1006a93------2)
 * [C++20 Coroutines — Complete* Guide](https:&#x2F;&#x2F;itnext.io&#x2F;c-20-coroutines-complete-guide-7c3fc08db89d?source&#x3D;rss-1e1de1006a93------2)
-* [C++20 Concepts — Complete Guide](https:&#x2F;&#x2F;itnext.io&#x2F;c-20-concepts-complete-guide-42c9e009c6bf?source&#x3D;rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
