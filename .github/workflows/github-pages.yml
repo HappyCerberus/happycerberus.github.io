@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main # or master before October 2020
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 9 * * *      
+  # Allow manual trigger.
+  workflow_dispatch:
 
 jobs:
   github-pages:
