@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
-* [The performance of languages doesn’t matter.](https:&#x2F;&#x2F;itnext.io&#x2F;the-performance-of-languages-doesnt-matter-4037800288bd?source&#x3D;rss-1e1de1006a93------2)
-* [You are doing code reviews wrong](https:&#x2F;&#x2F;itnext.io&#x2F;you-are-doing-code-reviews-wrong-e0b16ce8812b?source&#x3D;rss-1e1de1006a93------2)
-* [C++20 Coroutines — Complete* Guide](https:&#x2F;&#x2F;itnext.io&#x2F;c-20-coroutines-complete-guide-7c3fc08db89d?source&#x3D;rss-1e1de1006a93------2)
-* [C++20 Concepts — Complete Guide](https:&#x2F;&#x2F;itnext.io&#x2F;c-20-concepts-complete-guide-42c9e009c6bf?source&#x3D;rss-1e1de1006a93------2)
-* [Don’t rewrite your project in Rust, or at all.](https:&#x2F;&#x2F;itnext.io&#x2F;dont-rewrite-your-project-in-rust-or-at-all-81b5be97ff58?source&#x3D;rss-1e1de1006a93------2)
+* [Modern C++ in Advent of Code: Day16](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day16-6de15011455b?source&#x3D;rss-1e1de1006a93------2)
+* [Modern C++ in Advent of Code: Day15](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day15-74c2023711b0?source&#x3D;rss-1e1de1006a93------2)
+* [Modern C++ in Advent of Code: Day14](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day14-6f8347ec68d5?source&#x3D;rss-1e1de1006a93------2)
+* [Modern C++ in Advent of Code: Day13](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day13-4ae500de12b0?source&#x3D;rss-1e1de1006a93------2)
+* [Modern C++ in Advent of Code: Day12](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day12-1de190deb2e4?source&#x3D;rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
