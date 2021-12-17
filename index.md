@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Modern C++ in Advent of Code: Day16](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day16-6de15011455b?source&#x3D;rss-1e1de1006a93------2)
 * [Modern C++ in Advent of Code: Day15](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day15-74c2023711b0?source&#x3D;rss-1e1de1006a93------2)
 * [Modern C++ in Advent of Code: Day14](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day14-6f8347ec68d5?source&#x3D;rss-1e1de1006a93------2)
 * [Modern C++ in Advent of Code: Day13](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day13-4ae500de12b0?source&#x3D;rss-1e1de1006a93------2)
 * [Modern C++ in Advent of Code: Day12](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day12-1de190deb2e4?source&#x3D;rss-1e1de1006a93------2)
-* [Modern C++ in Advent of Code: Day11](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day11-fe5a9eb6f3ad?source&#x3D;rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
