@@ -9,7 +9,7 @@ This support is mainly aimed at library implementors. However, the main building
 
 - [Article](https://itnext.io/c-20-coroutines-complete-guide-7c3fc08db89d) <i class="fas fa-check"></i>
 - [Video](https://www.youtube.com/watch?v=w-dmOHhBX9o)  <i class="fas fa-check"></i>
-- [PDF Download](https://d.simontoth.eu/qwc) <i class="fas fa-check"></i>
+- [PDF Download](https://simontoth.eu/downloads/articles/cpp-20-coroutines.pdf) <i class="fas fa-check"></i>
 
 
 
