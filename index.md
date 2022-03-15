@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Divide &amp; Conquer and Sets: The 114 C++ algorithms series](https:&#x2F;&#x2F;itnext.io&#x2F;divide-conquer-and-sets-the-114-c-algorithms-series-d0085a38046e?source&#x3D;rss-1e1de1006a93------2)
 * [Sorting &amp; partitioning: The 114 C++ algorithms series](https:&#x2F;&#x2F;itnext.io&#x2F;sorting-partitioning-the-114-c-algorithms-series-6503ad41cede?source&#x3D;rss-1e1de1006a93------2)
 * [The 114 standard C++ algorithms. Introduction](https:&#x2F;&#x2F;itnext.io&#x2F;the-114-standard-c-algorithms-introduction-2a75a2df4300?source&#x3D;rss-1e1de1006a93------2)
 * [The curious case of the always O(n*logn) QuickSort](https:&#x2F;&#x2F;itnext.io&#x2F;the-curious-case-of-the-always-o-n-logn-quicksort-603b56230e6?source&#x3D;rss-1e1de1006a93------2)
 * [Five steps to perfect software](https:&#x2F;&#x2F;itnext.io&#x2F;five-steps-to-perfect-software-cfd4bd58a91b?source&#x3D;rss-1e1de1006a93------2)
-* [Modern C++ in Advent of Code: Day25](https:&#x2F;&#x2F;itnext.io&#x2F;modern-c-in-advent-of-code-day25-29630dd6b5d9?source&#x3D;rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
