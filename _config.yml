@@ -1,10 +1,24 @@
 # _config.yml
 
+
+
+# Site configuration
 title: "Deprecated Software Engineer"
+name: "RNDr. Šimon Tóth"
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast"
+plugins:
+  - jekyll-include-cache
+description: "I create educational content around software engineering and backend programming languages."
+url: "simontoth.eu"
+repository: "happycerberus/happycerberus.github.io"
+atom_feed:
+  hide: true
+footer_scripts:
+  - "https://kit.fontawesome.com/09f80d5d35.js"
 
-# Define collections
+
+# Content & collections configuration
 collections_dir: series
 
 collections:
@@ -14,7 +28,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
- 
+# Social media links
 author:
   name: "RNDr. Šimon Tóth"
   avatar: "/assets/images/bio-photo.png"
@@ -22,21 +36,22 @@ author:
   location: "Brno, Czech Republic"
   links:
     - label: "GitHub"
-      icon: "fab fa-github"
+      icon: "fa-brands fa-github fa-fw"
       url: "https://github.com/happycerberus"
     - label: "Medium"
-      icon: "fab fa-medium-m"
-      url: "https://medium.com/@happy.cerberus"
+      icon: "fa-brands fa-medium fa-fw"
+      url: "https://medium.com/@simontoth"
     - label: "YouTube"
-      icon: "fab fa-youtube"
+      icon: "fa-brands fa-youtube fa-fw"
       url: "https://www.youtube.com/c/SimonToth"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fa-brands fa-linkedin fa-fw"
       url: "https://www.linkedin.com/in/simontoth/"
     - label: "Twitter"
-      icon: "fab fa-twitter"
+      icon: "fa-brands fa-twitter fa-fw"
       url: "https://twitter.com/SimonToth83"
     - label: "Business Contact"
+      icon: "fa-solid fa-at fa-fw"
       url: "mailto:business@simontoth.eu"
 
 include: [CNAME, downloads]
