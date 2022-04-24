@@ -12,13 +12,13 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: JasonEtco/rss-to-readme@v2
         with:
-          feed-url: https://medium.com/feed/@happy.cerberus
+          feed-url: https://medium.com/feed/@simontoth
           readme-section: medium
           branch: main
           path: index.md
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: JasonEtco/rss-to-readme@v2
         with:
           feed-url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpSqMoRM5sewrjtI1RkDKxg
           readme-section: youtube
