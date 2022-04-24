@@ -6,11 +6,11 @@ author_profile: true
 ## My latest YouTube videos
 
 <!--START_SECTION:youtube-->
-* [C++20 Coroutines - Complete Guide](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;w-dmOHhBX9o)
-* [C++20 Concepts  - Complete Guide](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;1So7onMFxJM)
-* [C++20 Modules - A complete guide](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;WRCwciJ5MTE)
-* [Best way to manage your dotfiles #linux #git #shorts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;LHrB4TcU1JM)
-* [Using Golang with Bazel - Step by Step](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;mXLrk0ipwz4)
+* [C++20 Coroutines - Complete Guide](https://www.youtube.com/watch?v=w-dmOHhBX9o)
+* [C++20 Concepts  - Complete Guide](https://www.youtube.com/watch?v=1So7onMFxJM)
+* [C++20 Modules - A complete guide](https://www.youtube.com/watch?v=WRCwciJ5MTE)
+* [Best way to manage your dotfiles #linux #git #shorts](https://www.youtube.com/watch?v=LHrB4TcU1JM)
+* [Using Golang with Bazel - Step by Step](https://www.youtube.com/watch?v=mXLrk0ipwz4)
 <!--END_SECTION:youtube-->
 
 ## My latest Medium posts
