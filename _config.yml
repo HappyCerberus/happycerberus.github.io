@@ -31,7 +31,7 @@ collections:
 # Social media links
 author:
   name: "RNDr. Šimon Tóth"
-  avatar: "/assets/images/bio-photo.png"
+  avatar: "/assets/images/profile-small-square.webp"
   bio: "ex-Software Egineer, ex-Researcher."
   location: "Brno, Czech Republic"
   links:
