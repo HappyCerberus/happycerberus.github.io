@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Simple and consistent C++ Development Environment](https://itnext.io/simple-and-consistent-c-development-environment-c08cf8d93ed9?source=rss-1e1de1006a93------2)
 * [Generators, copies and moves: The 114 C++ algorithms series](https://itnext.io/generators-copies-and-moves-the-114-c-algorithms-series-1d0774472877?source=rss-1e1de1006a93------2)
 * [Move semantics and rvalue references: Modern C++ fundamentals](https://itnext.io/move-semantics-and-rvalue-references-modern-c-fundamentals-cbbe38760c05?source=rss-1e1de1006a93------2)
 * [Left folds and other reductions: The 114 C++ algorithms series](https://itnext.io/left-folds-and-other-reductions-the-114-c-algorithms-series-6195724d324?source=rss-1e1de1006a93------2)
 * [Save your sanity and time — Beyond clang-format.](https://itnext.io/save-your-sanity-and-time-beyond-clang-format-2b929b9120b8?source=rss-1e1de1006a93------2)
-* [Transformations: The 114 C++ algorithms series](https://itnext.io/transformations-the-114-c-algorithms-series-deacdbd4c373?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
