@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Modern C++ in Advent of Code: Day 16](https://medium.com/@simontoth/modern-c-in-advent-of-code-day-16-29378db1fe34?source=rss-1e1de1006a93------2)
 * [Modern C++ in Advent of Code: Day 15](https://medium.com/@simontoth/modern-c-in-advent-of-code-day-15-be90067919c9?source=rss-1e1de1006a93------2)
 * [Modern C++ in Advent of Code: Day 14](https://medium.com/@simontoth/modern-c-in-advent-of-code-day-14-2b652e35b55d?source=rss-1e1de1006a93------2)
 * [Modern C++ in Advent of Code: Day 13](https://medium.com/@simontoth/modern-c-in-advent-of-code-day-13-6d0e2ac759ab?source=rss-1e1de1006a93------2)
 * [Modern C++ in Advent of Code: Day 12](https://medium.com/@simontoth/modern-c-in-advent-of-code-day-12-b576009e4cc6?source=rss-1e1de1006a93------2)
-* [Modern C++ in Advent of Code: Day 11](https://medium.com/@simontoth/modern-c-in-advent-of-code-day-11-e17ddce25d74?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
