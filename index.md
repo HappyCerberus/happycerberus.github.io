@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Daily bit(e) of C++ | std::shared_mutex](https://medium.com/@simontoth/daily-bit-e-of-c-std-shared-mutex-ebe7477a7589?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Column-order traversal](https://medium.com/@simontoth/daily-bit-e-of-c-column-order-traversal-8e670fac7137?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::recursive_mutex](https://medium.com/@simontoth/daily-bit-e-of-c-std-recursive-mutex-dd9b84f38f8d?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::mutex](https://medium.com/@simontoth/daily-bit-e-of-c-std-mutex-558fe54c9dc3?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::partition_copy](https://medium.com/@simontoth/daily-bit-e-of-c-std-partition-copy-a7b7aed1a995?source=rss-1e1de1006a93------2)
-* [Daily bit(e) of C++ | std::stop_source, std::stop_token, std::stop_callback](https://medium.com/@simontoth/daily-bit-e-of-c-std-stop-source-std-stop-token-std-stop-callback-d69d3ebe8e36?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
