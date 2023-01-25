@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Daily bit(e) of C++ | Edit distance](https://medium.com/@simontoth/daily-bit-e-of-c-edit-distance-a8045c6766a6?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::shift_left, std::shift_right](https://medium.com/@simontoth/daily-bit-e-of-c-std-shift-left-std-shift-right-652480f44984?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Maximum path in a tree](https://medium.com/@simontoth/daily-bit-e-of-c-maximum-path-in-a-tree-9c224a543089?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::condition_variable](https://medium.com/@simontoth/daily-bit-e-of-c-std-condition-variable-e506b3eadbea?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::timed_mutex, std::recursive_timed_mutex, std::shared_timed_mutex](https://medium.com/@simontoth/daily-bit-e-of-c-std-timed-mutex-std-recursive-timed-mutex-std-shared-timed-mutex-26a6f402fb48?source=rss-1e1de1006a93------2)
-* [Daily bit(e) of C++ | Tree traversal algorithms](https://itnext.io/daily-bit-e-of-c-tree-traversal-algorithms-44e0d16bce08?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
