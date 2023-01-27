@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Daily bit(e) of C++ | std::unique, std::unique_copy](https://medium.com/@simontoth/daily-bit-e-of-c-std-unique-std-unique-copy-6bd5ceb8ee0?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::barrier](https://medium.com/@simontoth/daily-bit-e-of-c-std-barrier-b52ec8e39fd7?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Edit distance](https://medium.com/@simontoth/daily-bit-e-of-c-edit-distance-a8045c6766a6?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::shift_left, std::shift_right](https://medium.com/@simontoth/daily-bit-e-of-c-std-shift-left-std-shift-right-652480f44984?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Maximum path in a tree](https://medium.com/@simontoth/daily-bit-e-of-c-maximum-path-in-a-tree-9c224a543089?source=rss-1e1de1006a93------2)
-* [Daily bit(e) of C++ | std::condition_variable](https://medium.com/@simontoth/daily-bit-e-of-c-std-condition-variable-e506b3eadbea?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
