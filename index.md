@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
-* [Daily bit(e) of C++ | Numbers are not easy](https://medium.com/@simontoth/daily-bit-e-of-c-numbers-are-not-easy-74431416e754?source=rss-1e1de1006a93------2)
+* [Daily bit(e) of C++ | Maximum in a sliding window](https://medium.com/@simontoth/daily-bit-e-of-c-maximum-in-a-sliding-window-c56963b9cace?source=rss-1e1de1006a93------2)
+* [Daily bit(e) of C++ | Numbers are not easy](https://itnext.io/daily-bit-e-of-c-numbers-are-not-easy-74431416e754?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::promise, std::future](https://medium.com/@simontoth/daily-bit-e-of-c-std-promise-std-future-3cc9fb72b566?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::unique, std::unique_copy](https://medium.com/@simontoth/daily-bit-e-of-c-std-unique-std-unique-copy-6bd5ceb8ee0?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::barrier](https://medium.com/@simontoth/daily-bit-e-of-c-std-barrier-b52ec8e39fd7?source=rss-1e1de1006a93------2)
-* [Daily bit(e) of C++ | Edit distance](https://medium.com/@simontoth/daily-bit-e-of-c-edit-distance-a8045c6766a6?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
