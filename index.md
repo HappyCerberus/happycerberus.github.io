@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Daily bit(e) of C++ | std::call_once](https://medium.com/@simontoth/daily-bit-e-of-c-std-call-once-e03f337dd1a2?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::to_underlying](https://medium.com/@simontoth/daily-bit-e-of-c-std-to-underlying-a0ee81dbf2af?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::scoped_lock](https://medium.com/@simontoth/daily-bit-e-of-c-std-scoped-lock-9cab4142f9d4?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Longest increasing path](https://medium.com/@simontoth/daily-bit-e-of-c-longest-increasing-path-6fdd97e7abc3?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::inplace_merge](https://medium.com/@simontoth/daily-bit-e-of-c-std-inplace-merge-af08d42695ad?source=rss-1e1de1006a93------2)
-* [Daily bit(e) of C++ | Maximum in a sliding window](https://medium.com/@simontoth/daily-bit-e-of-c-maximum-in-a-sliding-window-c56963b9cace?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
