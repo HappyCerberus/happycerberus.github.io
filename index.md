@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Daily bit(e) of C++ | Swinging movement](https://medium.com/@simontoth/daily-bit-e-of-c-swinging-movement-35360b381a14?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::move_iterator](https://medium.com/@simontoth/daily-bit-e-of-c-std-move-iterator-cba62d2053ac?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | English Numbers](https://medium.com/@simontoth/daily-bit-e-of-c-english-numbers-fd5394c5ca73?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Tech debt is bad, m’kay?!](https://itnext.io/daily-bit-e-of-c-tech-debt-is-bad-mkay-feb318bffaad?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::nth_element](https://medium.com/@simontoth/daily-bit-e-of-c-std-nth-element-313de749cc5b?source=rss-1e1de1006a93------2)
-* [Daily bit(e) of C++ | std::iter_swap](https://medium.com/@simontoth/daily-bit-e-of-c-std-iter-swap-22f850a8f858?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
