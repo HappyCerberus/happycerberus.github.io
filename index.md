@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Daily bit(e) of C++ | Modern documentation tools](https://medium.com/@simontoth/daily-bit-e-of-c-modern-documentation-tools-9b96ba283732?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::bitset](https://medium.com/@simontoth/daily-bit-e-of-c-std-bitset-e3183b217629?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::strong_ordering, std::weak_ordering, std::partial_ordering](https://medium.com/@simontoth/daily-bit-e-of-c-std-strong-ordering-std-weak-ordering-std-partial-ordering-3656b1f12c18?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::all_of, std::any_of and std::none_of](https://medium.com/@simontoth/daily-bit-e-of-c-std-all-of-std-any-of-and-std-none-of-c44cfafbab84?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Swinging movement](https://medium.com/@simontoth/daily-bit-e-of-c-swinging-movement-35360b381a14?source=rss-1e1de1006a93------2)
-* [Daily bit(e) of C++ | std::move_iterator](https://medium.com/@simontoth/daily-bit-e-of-c-std-move-iterator-cba62d2053ac?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
