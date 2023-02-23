@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Daily bit(e) of C++ | std::make_heap, std::pop_heap, std::push_heap, std::sort_heap](https://medium.com/@simontoth/daily-bit-e-of-c-std-make-heap-std-pop-heap-std-push-heap-std-sort-heap-663e22816d38?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Serialize and de-serialize n-ary tree](https://medium.com/@simontoth/daily-bit-e-of-c-serialize-and-de-serialize-n-ary-tree-34031b6191eb?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::compare_strong_order_fallback, std::compare_weak_order_fallback…](https://medium.com/@simontoth/daily-bit-e-of-c-std-compare-strong-order-fallback-std-compare-weak-order-fallback-c203e6018fc8?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Sonar](https://medium.com/@simontoth/daily-bit-e-of-c-sonar-95dd228fb451?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Modern documentation tools](https://itnext.io/daily-bit-e-of-c-modern-documentation-tools-9b96ba283732?source=rss-1e1de1006a93------2)
-* [Daily bit(e) of C++ | std::bitset](https://medium.com/@simontoth/daily-bit-e-of-c-std-bitset-e3183b217629?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
