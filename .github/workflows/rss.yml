@@ -18,10 +18,12 @@ jobs:
           readme-section: medium
           branch: main
           path: index.md
+          template: "<li><a href=\"{{ link }}\">{{ title }}</a></li>"
       - uses: JasonEtco/rss-to-readme@v2
         with:
           feed-url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpSqMoRM5sewrjtI1RkDKxg
           readme-section: youtube
           branch: main
           path: index.md
+          template: "<li><a href=\"{{ link }}\">{{ title }}</a></li>"
           
