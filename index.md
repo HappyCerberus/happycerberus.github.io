@@ -16,9 +16,9 @@ author_profile: true
 ## My latest Medium posts
 
 <!--START_SECTION:medium-->
+* [Daily bit(e) of C++ | std::iota and std::views::iota](https://medium.com/@simontoth/daily-bit-e-of-c-std-iota-and-std-views-iota-edaaeab0851c?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::min, std::max and std::minmax](https://medium.com/@simontoth/daily-bit-e-of-c-std-min-std-max-and-std-minmax-2810969b99f9?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::span](https://medium.com/@simontoth/daily-bit-e-of-c-std-span-46c970875351?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | std::make_heap, std::pop_heap, std::push_heap, std::sort_heap](https://medium.com/@simontoth/daily-bit-e-of-c-std-make-heap-std-pop-heap-std-push-heap-std-sort-heap-663e22816d38?source=rss-1e1de1006a93------2)
 * [Daily bit(e) of C++ | Serialize and de-serialize n-ary tree](https://medium.com/@simontoth/daily-bit-e-of-c-serialize-and-de-serialize-n-ary-tree-34031b6191eb?source=rss-1e1de1006a93------2)
-* [Daily bit(e) of C++ | std::compare_strong_order_fallback, std::compare_weak_order_fallback…](https://medium.com/@simontoth/daily-bit-e-of-c-std-compare-strong-order-fallback-std-compare-weak-order-fallback-c203e6018fc8?source=rss-1e1de1006a93------2)
 <!--END_SECTION:medium-->
