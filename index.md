@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-n-queens-b5e0c0d2275f?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | N-Queens</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-shuffle-95cea01179ae?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::shuffle</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-maximum-number-of-points-on-a-line-20af6d2443f8?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Maximum number of points on a line</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-iota-and-std-views-iota-edaaeab0851c?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::iota and std::views::iota</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-min-std-max-and-std-minmax-2810969b99f9?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::min, std::max and std::minmax</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-span-46c970875351?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::span</a></li>
 <!--END_SECTION:medium-->
 </ul>
