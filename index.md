@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-minimum-substring-with-all-letters-619ca68da1a6?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Minimum substring with all letters</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-customizing-swap-2e11004a4752?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Customizing swap</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-monostate-pattern-f795bdd5b432?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Monostate pattern</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-for-each-130273b2cad4?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::for_each</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-opaque-enum-declaration-128dc4d8a4fb?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | opaque enum declaration</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-n-queens-b5e0c0d2275f?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | N-Queens</a></li>
 <!--END_SECTION:medium-->
 </ul>
