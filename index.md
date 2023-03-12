@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-ref-qualified-methods-bc2c3cdbe52?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Ref-qualified methods</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-transform-reduce-ae7a3772e848?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::transform_reduce</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-defaulted-comparison-operators-780af7547f42?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Defaulted comparison operators</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-visit-8c995fbfb6c1?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::visit</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-maxstack-data-structure-3fe5d0e6a5c0?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | MaxStack data structure</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-variant-55aca2629502?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::variant</a></li>
 <!--END_SECTION:medium-->
 </ul>
