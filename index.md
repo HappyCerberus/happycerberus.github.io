@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-skyline-outline-c9b27c8c4b6?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Skyline outline</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-legacy-resources-with-std-unique-ptr-461f32abbf58?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Legacy resources with std::unique_ptr</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-maximum-number-of-invitations-4e98722ef0eb?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Maximum number of invitations</a></li>
 <li><a href="https://itnext.io/daily-bit-e-of-c-learn-modern-c-1-n-d2157dfdc08b?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Learn Modern C++ 1/N</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-stride-ca59c30845f5?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::stride</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-cartesian-product-dcc00b76f9e?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::cartesian_product</a></li>
 <!--END_SECTION:medium-->
 </ul>
