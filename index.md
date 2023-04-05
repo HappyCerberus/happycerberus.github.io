@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-validating-a-bst-71612eba5a38?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Validating a BST</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-counted-iterator-146d264b9aae?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::counted_iterator</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-shortest-path-with-obstacle-removal-5361af4b704c?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Shortest path with obstacle removal</a></li>
 <li><a href="https://itnext.io/daily-bit-e-of-c-learn-modern-c-2-n-59d5434b2895?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Learn Modern C++ 2/N</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-chunk-by-c829d742f7b9?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::chunk_by</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-user-defined-literals-d066291ca315?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | User-defined literals</a></li>
 <!--END_SECTION:medium-->
 </ul>
