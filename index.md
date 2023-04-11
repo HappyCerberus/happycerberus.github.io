@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-front-inserter-std-back-inserter-std-inserter-17d0d83b7308?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::front_inserter, std::back_inserter, std::inserter</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-lexicographically-minimum-string-1ff232db1612?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Lexicographically minimum string</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-static-operator-7e43949efa51?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | static operator()</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-as-rvalue-bbe5ea1bb30?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::as_rvalue</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-exchange-27f04b0a5de4?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::exchange</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-slide-6305f02ff82f?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::slide</a></li>
 <!--END_SECTION:medium-->
 </ul>
