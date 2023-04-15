@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-join-717ba51c237c?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::join</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-integer-literals-d4e3d41d3176?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Integer literals</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-optional-values-std-unique-ptr-std-optional-6b1cd1516131?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Optional values: std::unique_ptr, std::optional</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-race-car-118c3fb821e2?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Race car</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-front-inserter-std-back-inserter-std-inserter-17d0d83b7308?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::front_inserter, std::back_inserter, std::inserter</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-lexicographically-minimum-string-1ff232db1612?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Lexicographically minimum string</a></li>
 <!--END_SECTION:medium-->
 </ul>
