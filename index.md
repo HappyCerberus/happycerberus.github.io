@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-override-specifier-c1637f46f883?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | override specifier</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-accessing-content-of-std-optional-6cfb646304d4?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Accessing content of std::optional</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-inline-namespace-e0832997449a?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Inline namespace</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-chunk-b647fc5b9139?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::chunk</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-visible-points-ed34aa6a1357?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Visible points</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-current-exception-std-exception-ptr-std-rethrow-exception-87b0fb3fc32d?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::current_exception, std::exception_ptr, std::rethrow_exception</a></li>
 <!--END_SECTION:medium-->
 </ul>
