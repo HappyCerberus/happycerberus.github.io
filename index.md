@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-nodiscard-attribute-57cfeb940950?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | [[nodiscard]] attribute</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-partition-array-into-two-to-minimize-sum-difference-172d27a481d0?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Partition array into two to minimize sum difference</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-override-specifier-c1637f46f883?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | override specifier</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-accessing-content-of-std-optional-6cfb646304d4?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Accessing content of std::optional</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-inline-namespace-e0832997449a?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Inline namespace</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-chunk-b647fc5b9139?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::chunk</a></li>
 <!--END_SECTION:medium-->
 </ul>
