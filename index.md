@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-zip-c4429066b069?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::zip</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-transform-5071a57aae23?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::transform</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-detecting-loops-in-singly-linked-list-b9c9bba2d7ed?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Detecting loops in singly-linked list</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-nodiscard-attribute-57cfeb940950?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | [[nodiscard]] attribute</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-partition-array-into-two-to-minimize-sum-difference-172d27a481d0?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Partition array into two to minimize sum difference</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-override-specifier-c1637f46f883?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | override specifier</a></li>
 <!--END_SECTION:medium-->
 </ul>
