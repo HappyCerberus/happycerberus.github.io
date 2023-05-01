@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-reverse-k-groups-in-a-list-8f2dc4c2968?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Reverse k-groups in a list</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-learn-modern-c-4-n-cd7f36cef283?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Learn Modern C++ 4/N</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-dependency-injection-fdcdd14ecdee?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Dependency injection</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-zip-c4429066b069?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::zip</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-transform-5071a57aae23?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::transform</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-detecting-loops-in-singly-linked-list-b9c9bba2d7ed?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Detecting loops in singly-linked list</a></li>
 <!--END_SECTION:medium-->
 </ul>
