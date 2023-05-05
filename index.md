@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-lower-bound-std-upper-bound-2614cc0f3aa4?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::lower_bound, std::upper_bound</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-ranges-contains-std-ranges-contains-subrange-1cd00424370a?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::ranges::contains, std::ranges::contains_subrange</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-maximum-substring-with-unique-characters-62e4debeac41?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Maximum substring with unique characters.</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-type-tagging-42b9e0374b84?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Type tagging</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-reverse-k-groups-in-a-list-8f2dc4c2968?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Reverse k-groups in a list</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-learn-modern-c-4-n-cd7f36cef283?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Learn Modern C++ 4/N</a></li>
 <!--END_SECTION:medium-->
 </ul>
