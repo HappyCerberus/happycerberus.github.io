@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-endian-88930e57445e?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::endian</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-no-unique-address-8c49ffb9b4ba?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | [[no_unique_address]]</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-maximum-profit-job-schedule-e3ee8de16444?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Maximum profit job schedule</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-adjacent-std-views-pairwise-809363044218?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::adjacent, std::views::pairwise</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-median-of-two-sorted-arrays-679a3b6f9921?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Median of two sorted arrays</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-init-statements-6e6bd4bd2a11?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Init statements</a></li>
 <!--END_SECTION:medium-->
 </ul>
