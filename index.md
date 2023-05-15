@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-lru-cache-65db34be0605?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | LRU cache</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-course-5-n-dc2aeb9b49f4?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Learn Modern C++ 5/N</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-keys-std-views-values-8b6114f22e43?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::keys, std::views::values</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-endian-88930e57445e?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::endian</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-no-unique-address-8c49ffb9b4ba?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | [[no_unique_address]]</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-maximum-profit-job-schedule-e3ee8de16444?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Maximum profit job schedule</a></li>
 <!--END_SECTION:medium-->
 </ul>
