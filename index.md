@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-projections-in-c-20-range-algorithms-5648d0fb16f5?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | projections in C++20 range algorithms</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-linked-lists-f607b8a782f5?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Linked lists</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-transform-a81a42a1cf00?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::transform</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-singleton-pattern-98a069c3d59a?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Singleton pattern</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-ranges-fold-left-with-iter-std-ranges-fold-left-first-with-iter-9b1e7ad4cc47?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::ranges::fold_left_with_iter, std::ranges::fold_left_first_with_iter</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-enumerate-ead7cf53972d?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::enumerate</a></li>
 <!--END_SECTION:medium-->
 </ul>
