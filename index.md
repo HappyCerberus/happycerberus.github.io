@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-as-const-39778046eedc?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::as_const</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-validating-a-complete-binary-tree-38c2a862eab1?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Validating a complete binary tree</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-learn-modern-c-6-n-e6a1021da13?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Learn Modern C++ 6/N</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-join-with-b9f12299640d?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::join_with</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-c-17-constexpr-if-b570dbb06b50?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | C++17 constexpr if</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bite-of-c-std-this-thread-28a8ba5396f0?source=rss-1e1de1006a93------2">Daily bite of C++ | std::this_thread</a></li>
 <!--END_SECTION:medium-->
 </ul>
