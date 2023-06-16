@@ -19,10 +19,10 @@ author_profile: true
 
 <ul>
 <!--START_SECTION:medium-->
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-standard-string-literals-f08c900fd2c0?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Standard string literals</a></li>
+<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-views-common-d6528018a128?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::views::common</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-locked-rooms-70ba5beb4c69?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Locked rooms</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-structured-bindings-1775ab3044c1?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Structured bindings</a></li>
 <li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-sudoku-solver-8101feaf9abd?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Sudoku solver</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-std-next-std-prev-6c4ca22bee93?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | std::next, std::prev</a></li>
-<li><a href="https://medium.com/@simontoth/daily-bit-e-of-c-integer-literal-bases-c2f488e2fa51?source=rss-1e1de1006a93------2">Daily bit(e) of C++ | Integer literal bases</a></li>
 <!--END_SECTION:medium-->
 </ul>
