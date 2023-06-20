@@ -12,7 +12,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: kohrongying/readme-the-rss@master
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_url: https://simontoth.substack.com/feed
-          readme_path: index.md
+          feed_list: https://simontoth.substack.com/feed
+          readme_path: ./index.md
+          comment_tag_name: SUBSTACK
