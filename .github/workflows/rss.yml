@@ -14,6 +14,5 @@ jobs:
     steps:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: https://simontoth.substack.com/feed
-          readme_path: ./index.md
-          comment_tag_name: SUBSTACK
+          feed_list: "https://simontoth.substack.com/feed"
+          readme_path: "./index.md"

@@ -6,6 +6,6 @@ author_profile: true
 ## My latest Substack posts
 
 <ul>
-<!--SUBSTACK:START-->
-<!--SUBSTACK:END-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </ul>
