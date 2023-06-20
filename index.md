@@ -16,7 +16,7 @@ Complete upto and including C++20.
 
 In progress book.
 
-- [![Surviving the C++ Coding Interview](assets/images/book_coding_interview_cover.png)](https://leanpub.com/cpp-coding-interview)
+[![Surviving the C++ Coding Interview](assets/images/book_coding_interview_cover.png)](https://leanpub.com/cpp-coding-interview)
 
 - [Book repository](https://leanpub.com/cpp-coding-interview)
 - [LeanPub](https://leanpub.com/cpp-coding-interview)
