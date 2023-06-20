@@ -14,5 +14,5 @@ jobs:
     steps:
       - uses: kohrongying/readme-the-rss@master
         with:
-          feed-url: https://simontoth.substack.com/feed
-          path: index.md
+          feed_url: https://simontoth.substack.com/feed
+          readme_path: index.md
