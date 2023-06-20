@@ -7,7 +7,7 @@ author_profile: true
 
 Complete upto and including C++20.
 
-[![A Complete Guide to Standard C++ Algorithms](assets/images/book_algorithms_cover.png)](https://leanpub.com/cpp-algorithms-guide)
+[<img src="assets/images/book_algorithms_cover.png" width="50%">](https://leanpub.com/cpp-algorithms-guide)
 
 - [Book repository](https://github.com/HappyCerberus/book-cpp-algorithms)
 - [LeanPub](https://leanpub.com/cpp-algorithms-guide)
@@ -16,7 +16,7 @@ Complete upto and including C++20.
 
 In progress book.
 
-[![Surviving the C++ Coding Interview](assets/images/book_coding_interview_cover.png)](https://leanpub.com/cpp-coding-interview)
+[<img src="assets/images/book_coding_interview_cover.png" width="50%">](https://leanpub.com/cpp-coding-interview)
 
 - [Book repository](https://leanpub.com/cpp-coding-interview)
 - [LeanPub](https://leanpub.com/cpp-coding-interview)
