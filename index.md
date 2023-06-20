@@ -3,6 +3,24 @@ layout: single
 author_profile: true
 ---
 
+## A Complete Guide to Standard C++ Algorithms
+
+Complete upto and including C++20.
+
+[![A Complete Guide to Standard C++ Algorithms](assets/images/book_algorithms_cover.png)](https://leanpub.com/cpp-algorithms-guide)
+
+- [Book repository](https://github.com/HappyCerberus/book-cpp-algorithms)
+- [LeanPub](https://leanpub.com/cpp-algorithms-guide)
+
+## Surviving the C++ Coding Interview
+
+In progress book.
+
+- [![Surviving the C++ Coding Interview](assets/images/book_coding_interview_cover.png)](https://leanpub.com/cpp-coding-interview)
+
+- [Book repository](https://leanpub.com/cpp-coding-interview)
+- [LeanPub](https://leanpub.com/cpp-coding-interview)
+
 ## Daily bit(e) of C++
 
 <ul>
