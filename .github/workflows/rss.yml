@@ -8,7 +8,6 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-    
 
 jobs:
   update:
@@ -21,3 +20,5 @@ jobs:
         with:
           feed_list: "https://simontoth.substack.com/feed"
           readme_path: "./index.md"
+          template: "<li><a href=\"$url\">$title</a></li>"
+          comment_tag_name: "SUBSTACK"
