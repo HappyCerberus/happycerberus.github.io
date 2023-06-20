@@ -1,9 +1,6 @@
 name: Build and deploy Jekyll site to GitHub Pages
 
 on:
-  push:
-    branches:
-      - main # or master before October 2020
   schedule:
     # Once a day at 8 AM
     - cron: 0 9 * * *      
