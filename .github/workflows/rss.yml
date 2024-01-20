@@ -18,7 +18,7 @@ jobs:
       - name: Fetch Substack RSS
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://simontoth.substack.com/feed"
+          feed_list: "https://medium.com/feed/@simontoth"
           readme_path: "./index.md"
           template: "<li><a href=\"$url\">$title</a></li>"
           comment_tag_name: "SUBSTACK"
