@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem 'jekyll-sass-converter', '~> 3.0.0'
   gem 'minimal-mistakes-jekyll'
   gem 'jekyll-include-cache'
+  gem 'jekyll-sitemap'
 end

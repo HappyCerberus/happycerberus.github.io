@@ -9,8 +9,9 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
 description: "I create educational content around software engineering and backend programming languages."
-url: ""
+url: "https://simontoth.eu"
 repository: "happycerberus/happycerberus.github.io"
 atom_feed:
   hide: true
