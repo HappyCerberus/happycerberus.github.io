@@ -18,7 +18,7 @@ In progress book.
 
 [<img src="assets/images/book_coding_interview_cover.png" width="50%">](https://leanpub.com/cpp-coding-interview)
 
-- [Book repository](https://leanpub.com/cpp-coding-interview)
+- [Book repository](https://github.com/HappyCerberus/cpp-coding-interview)
 - [LeanPub](https://leanpub.com/cpp-coding-interview)
 
 ## Daily bit(e) of C++
